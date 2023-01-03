@@ -1,5 +1,8 @@
+
+<br>
+<br>
 <div align="center">
-  <img alt="computer" src="https://media.giphy.com/media/3a53VvGpzUgh05qq7W/giphy.gif" width="50"><br>
+  <img alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"><br>
 </div>
 
 ### BookingForm
