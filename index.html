@@ -15,11 +15,81 @@
     <section id="booking">
         <article id="cta">
             <header>
-
+                <h1>Book your flight today</h1>
+                <p>Anytime you visit the islands it is life changing in some way.
+                    Breathtaking scenery, friendly faces and the aloha spirit — come for a visit,
+                    you won't regret it.
+                </p>
             </header>
         </article>
         <article id="formSection">
             <form action="#" id="flightBook">
+                <div id="tripType" class="form-group">
+                    <label for="roundTrip">
+                        <input type="radio" id="roundTrip" name="flight-type">
+                        Roundtrip
+                    </label>
+                    <label for="oneWay">
+                        <input type="radio" id="oneWay" name="flight-type">
+                        One way
+                    </label>
+                    <label for="multiCity">
+                        <input type="radio" id="multiCity" name="flight-type">
+                        Multi-City
+                    </label>
+                </div>
+                <div id="placeDate">
+                    <div class="form-group">
+                        <label for="flyingFrom" class="form-label">From</label>
+                        <input class="form-control" id="flyingFrom" type="text" placeholder="City or airport">
+                    </div>
+                    <div class="form-group">
+                        <label for="flyingTo" class="form-label">To</label>
+                        <input class="form-control" id="flyingTo" type="text" placeholder="City or airport">
+                    </div>
+                    <div class="form-group">
+                        <label for="departing" class="form-label">Departing date</label>
+                        <input class="form-control" id="departing" type="date" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="returning" class="form-label">Returning date</label>
+                        <input class="form-control" id="returning" type="date" required>
+                    </div>
+                </div>
+                <div id="details">
+                    <div class="form-group">
+                        <label for="numOfAdults"class="form-label"> Adults (18+)</label>
+                        <select class="form-control" id="numOfAdults">
+                            <option value="">1</option>
+                            <option value="">2</option>
+                            <option value="">3</option>
+                            <option value="">4</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="numOfKids" class="form-label">Children (0-17)</label>
+                        <select id="numOfKids" class="form-control">
+                            <option value="">0</option>
+                            <option value="">1</option>
+                            <option value="">2</option>
+                            <option value="">3</option>
+                            <option value="">4</option>
+                            <option value="">5</option>
+                            <option value="">6</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="travClass" class="form-label">Travel class</label>
+                        <select id="travClass" class="form-control">
+                            <option value="">Economy class</option>
+                            <option value="">Business class</option>
+                            <option value="">First class</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-btn">
+                    <button class="submit-btn">Show flights</button>
+                </div>
 
             </form>
         </article>
