@@ -1,14 +1,16 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Booking form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Form</title>
+
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+
     <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
 <main>
@@ -16,14 +18,13 @@
         <article id="cta">
             <header>
                 <h1>Book your flight today</h1>
-                <p>Anytime you visit the islands it is life changing in some way.
-                    Breathtaking scenery, friendly faces and the aloha spirit — come for a visit,
-                    you won't regret it.
-                </p>
+                <p>Anytime you visit the islands it is life changing in some way. Breathtaking scenery, friendly faces and the aloha spirit — come for a visit, you won't regret it.</p>
             </header>
         </article>
+
         <article id="formSection">
             <form action="#" id="flightBook">
+
                 <div id="tripType" class="form-group">
                     <label for="roundTrip">
                         <input type="radio" id="roundTrip" name="flight-type">
@@ -38,64 +39,71 @@
                         Multi-City
                     </label>
                 </div>
+
                 <div id="placeDate">
                     <div class="form-group">
-                        <label for="flyingFrom" class="form-label">From</label>
+                        <label class="form-label" for="flyingFrom">From</label>
                         <input class="form-control" id="flyingFrom" type="text" placeholder="City or airport">
                     </div>
+
                     <div class="form-group">
-                        <label for="flyingTo" class="form-label">To</label>
+                        <label class="form-label" for="flyingTo">To</label>
                         <input class="form-control" id="flyingTo" type="text" placeholder="City or airport">
                     </div>
+
                     <div class="form-group">
-                        <label for="departing" class="form-label">Departing date</label>
+                        <label class="form-label" for="departing">Departing date</label>
                         <input class="form-control" id="departing" type="date" required>
                     </div>
+
                     <div class="form-group">
-                        <label for="returning" class="form-label">Returning date</label>
+                        <label class="form-label" for="returning">Returning date</label>
                         <input class="form-control" id="returning" type="date" required>
                     </div>
-                </div>
+                </div> <!-- end details -->
+
                 <div id="details">
+                    <!--passengers -->
                     <div class="form-group">
-                        <label for="numOfAdults"class="form-label"> Adults (18+)</label>
+                        <label class="form-label" for="numOfAdults">Adults (18+)</label>
                         <select class="form-control" id="numOfAdults">
-                            <option value="">1</option>
-                            <option value="">2</option>
-                            <option value="">3</option>
-                            <option value="">4</option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
                         </select>
                     </div>
+
                     <div class="form-group">
-                        <label for="numOfKids" class="form-label">Children (0-17)</label>
-                        <select id="numOfKids" class="form-control">
-                            <option value="">0</option>
-                            <option value="">1</option>
-                            <option value="">2</option>
-                            <option value="">3</option>
-                            <option value="">4</option>
-                            <option value="">5</option>
-                            <option value="">6</option>
+                        <label class="form-label" for="numOfKids">Children (0-17)</label>
+                        <select class="form-control" id="numOfKids">
+                            <option>0</option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                            <option>6</option>
                         </select>
                     </div>
+
                     <div class="form-group">
-                        <label for="travClass" class="form-label">Travel class</label>
-                        <select id="travClass" class="form-control">
-                            <option value="">Economy class</option>
-                            <option value="">Business class</option>
-                            <option value="">First class</option>
+                        <label class="form-label" for="travClass">Travel class</label>
+                        <select class="form-control" id="travClass">
+                            <option>Economy class</option>
+                            <option>Business class</option>
+                            <option>First class</option>
                         </select>
                     </div>
                 </div>
+
                 <div class="form-btn">
                     <button class="submit-btn">Show flights</button>
                 </div>
 
             </form>
         </article>
-
     </section>
 </main>
-
 </body>
 </html>

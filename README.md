@@ -5,11 +5,11 @@
   <img alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"><br>
 </div>
 
-### BookingForm
+### Booking Form
 
-- [ ] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/font-awesome.svg"  width="20" height="20"> Add Font-Awesome icon via GitHub 
-- [x] add HTML
-- [x] Earth (Orbit/Moon)
+- [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/font-awesome.svg"  width="20" height="20"> Add Font-Awesome icon via GitHub 
+- [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg"  width="20" height="20"> Add base HTML
+- [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css3-alt.svg"  width="20" height="20"> Add CSS part. Understand theme: "The margin on the child collapses with any margin on the parent"
 - [ ] Mars
 - [ ] Jupiter
 - [ ] Saturn
