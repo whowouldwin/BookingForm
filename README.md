@@ -1,7 +1,7 @@
 
 <br>
 <br>
-<div align="center" style="pointer-events: none";>
+<div align="center">
   <a style= "pointer-events: none;"> <img style="pointer-events: none" alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
 <br>
 </div>
