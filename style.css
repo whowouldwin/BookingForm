@@ -114,21 +114,11 @@ input:focus, select:focus {
 
 /* mid screen layout */
 @media screen and (min-width: 430px) {
-
-    #flightBook #tripType label+label {
-        margin-left: 15px;
-    }
-    #flightBook #tripType label {
-        display: inline-block;
-        margin-bottom: 0;
-    }
-
     #placeDate, #details {
         display: grid;
         grid-template-columns: 48.5% 48.5%;
         grid-column-gap: 3%;
     }
-
 }
 /* large screen layout */
 @media screen and (min-width: 960px) {
@@ -140,20 +130,16 @@ input:focus, select:focus {
         margin: 20% auto;
         max-width: 100%;
     }
-
     #cta {
         margin-top: 0;
         margin-right: 1.5em;
     }
-
     #formSection {
         margin: 0;
     }
-
     #details {
         display: grid;
         grid-template-columns: 28% 28% 38%;
         grid-column-gap: 3%;
     }
-
 }
