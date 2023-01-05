@@ -2,7 +2,7 @@
 <br>
 <br>
 <div align="center">
-  <a style="pointer-events: none"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
+  <a style= "pointer-events: none;"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" data-canonical-srs="" width="100"> </a>
 <br>
 </div>
 <br>
