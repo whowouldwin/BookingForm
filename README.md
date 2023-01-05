@@ -2,13 +2,15 @@
 <br>
 <br>
 <div align="center">
-  <a href="#"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
+  <a style="pointer-events: none"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
 <br>
 </div>
 <br>
 
 
-[![Pictire](https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif)](https://github.com/whowouldwin/BookingForm#)
+[//]: # ([![Pictire]&#40;https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif&#41;]&#40;https://github.com/whowouldwin/BookingForm#&#41;)
+
+
 
 ### Booking Form
 
@@ -23,5 +25,5 @@
 - [x] Awesome readme
 
 
-In future:
+In the future:
 Add a Gatsby.js
