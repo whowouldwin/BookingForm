@@ -5,6 +5,8 @@
   <a href="#"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
 <br>
 </div>
+<br>
+<br>
 <div align="center">
 <picture>
   <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100">
