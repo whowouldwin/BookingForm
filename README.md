@@ -2,10 +2,10 @@
 <br>
 <br>
 <div align="center">
-  <img alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"><br>
+  <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"><br>
 </div>
 
-[//]: # (![Gif]&#40;https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif&#41;)
+<a>![Gif](https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif) width="100"></a>
 ### Booking Form
 
 - [x] <img style="pointer-events: none;"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/font-awesome.svg"  width="20" height="20"> Add Font-Awesome icon via GitHub 
