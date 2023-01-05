@@ -7,8 +7,7 @@
 </div>
 <div align="center">
 <picture>
-  <a href="#"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
-<br>
+  <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100">
 </picture>
 </div>
 
