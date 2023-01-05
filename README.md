@@ -6,14 +6,9 @@
 <br>
 </div>
 <br>
-<br>
-<div align="center">
-<picture>
-  <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100">
-</picture>
-</div>
 
-[//]: # (![Pictire]&#40;https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif&#41;)
+
+[![Pictire](https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif)](https://github.com/whowouldwin/BookingForm#)
 
 ### Booking Form
 
@@ -26,3 +21,7 @@
 - [ ] Uranus
 - [ ] Neptune
 - [x] Awesome readme
+
+
+In future:
+Add a Gatsby.js
