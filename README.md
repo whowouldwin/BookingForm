@@ -2,9 +2,15 @@
 <br>
 <br>
 <div align="center">
-  <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"><br>
+  <a href="#"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
+<br>
 </div>
-<a href="#"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
+<div align="center">
+<picture>
+  <a href="#"> <img  alt="computer" src="https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif" width="100"> </a>
+<br>
+</picture>
+</div>
 
 [//]: # (![Pictire]&#40;https://media.giphy.com/media/Ze3KkbwQ74xuDpfeYG/giphy.gif&#41;)
 
