@@ -10,7 +10,7 @@
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/font-awesome.svg"  width="20" height="20"> Add Font-Awesome icon via GitHub 
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg"  width="20" height="20"> Add base HTML
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css3-alt.svg"  width="20" height="20"> Add CSS part. Understand theme: "The margin on the child collapses with any margin on the parent"
-- [ ] Mars
+- [ ] <img src="images/radioButton.png" width="20" height="20"> Creating custom radio button
 - [ ] Jupiter
 - [ ] Saturn
 - [ ] Uranus
