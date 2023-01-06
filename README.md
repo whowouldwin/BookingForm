@@ -26,4 +26,4 @@
 
 
 In the future:
-Add a Gatsby.js
+Add a Gatsby.js (not clickable .svg)
