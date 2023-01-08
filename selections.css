@@ -7,8 +7,8 @@ select {
     -moz-appearance: none;
     text-indent: 0.01px;
     text-overflow: '';
-
-}#flightBook select.form-control + .select-arrow {
+}
+#flightBook select.form-control + .select-arrow {
     position: absolute;
     right: 6px;
     bottom: 6px;
