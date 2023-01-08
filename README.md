@@ -18,7 +18,7 @@
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg"  width="20" height="20"> Add base HTML
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css3-alt.svg"  width="20" height="20"> Add CSS part. Understand theme: "The margin on the child collapses with any margin on the parent"
 - [ ] <img src="images/radio-btn.svg" width="20" height="20"> Creating custom radio button
-- [ ] Jupiter
+- [ ] stepper-component (alighment input.stepper-control)
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
