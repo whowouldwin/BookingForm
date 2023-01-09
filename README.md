@@ -14,18 +14,18 @@
 
 ### Booking Form
 
+
+
+![Booking form](./images/Screenshot.png)
+
 - [x] <img style="pointer-events: none;"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/font-awesome.svg"  width="20" height="20"> Add Font-Awesome icon via GitHub 
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg"  width="20" height="20"> Add base HTML
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css3-alt.svg"  width="20" height="20"> Add CSS part. Understand theme: "The margin on the child collapses with any margin on the parent"
-- [ ] <img src="images/radio-btn.svg" width="20" height="20"> Creating custom radio button
-- [ ] stepper-component (alighment input.stepper-control)
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [x] Awesome readme
+- [x] <img src="images/radio-btn.svg" width="20" height="20"> Creating custom radio button
+- [x] stepper-component (alighment input.stepper-control)
 
 1? Is there another way create input.stepper-control
 
-
+2? Awesome README.md
 In the future:
 Add a Gatsby.js (not clickable .svg)
