@@ -18,7 +18,7 @@
 
 ![Booking form](./images/Screenshot.png)
 <br>
-![Booking form](./images/mobileVersion.png) 
+<img src="./images/mobileVersion.png" height="800" />
 
 - [x] <img style="pointer-events: none;"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/font-awesome.svg"  width="20" height="20"> Add Font-Awesome icon via GitHub 
 - [x] <img style=""  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg"  width="20" height="20"> Add base HTML
