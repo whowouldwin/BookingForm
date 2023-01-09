@@ -107,5 +107,24 @@
         </article>
     </section>
 </main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+    $('.plus').click( function(){
+        var counter = $(this).siblings().filter('input').val();
+        counter++;
+        $(this).siblings().filter('input').val(counter);
+        return false;
+    });
+
+    $('.minus').click( function(){
+        var counter = $(this).siblings().filter('input').val();
+        if(counter > 0){
+            counter--;
+            $(this).siblings().filter('input').val(counter);
+        }
+        return false;
+    });
+</script>
 </body>
 </html>

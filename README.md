@@ -24,6 +24,8 @@
 - [ ] Neptune
 - [x] Awesome readme
 
+1? Is there another way create input.stepper-control
+
 
 In the future:
 Add a Gatsby.js (not clickable .svg)
